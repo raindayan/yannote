@@ -113,7 +113,7 @@ git config https.proxy http://127.0.0.1:7897
 ``` bash
 git remote set-url origin 
 ```
-
+### 配置用户名邮箱
 ### commit历史修改
 #### 邮箱姓名信息修改
 ``` bash
