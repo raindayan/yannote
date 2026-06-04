@@ -1,0 +1,1 @@
+group by xx  xx这一列被压缩成一行，所以其他列无法展示需要用到聚合函数比如sum count
